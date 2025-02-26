@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2941325614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbf00da2029f21a3858bceca6a8df65d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4587ef6f95f03cd9eb1b5942fca4ec1a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bbf00da2029f21a3858bceca6a8df65d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Test chamdiem/Cube.prefab
+- Assets/Test chamdiem/Sphere.prefab
+Dependencies: []
